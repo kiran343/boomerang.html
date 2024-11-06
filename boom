@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boomerang-You'll come back</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/css/fontawesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+   
+    
+</head>
+<body>
+    <section class="heading">
+        <div class="row0">
+            <div class="col0">
+          <ul>
+            <li>home</li>
+            <li><a href="about.html">about</a></li>
+            <li><a href="menu.html"> menu</a></li>
+            <li>branches</li>
+            <li>contact us</li>
+          </ul>
+    </div>
+    <div class="col1">
+   <img src="74607754_10157375105191638_5276457285520982016_n.png">
+</div>
+<div class="col2">
+    <button>PARTNER WITH US</button>
+</div>
+</div>
+</section>
+<section class="video"> 
+    <div class="row2">
+
+    
+    <video autoplay muted="muted" width="1349px" height="550px">
+                            <source type="video/mp4" src="https://boomerangicecreams.com/wp-content/uploads/2023/11/banner-main-1.mp4">
+                            </video>
+
+                        </div>
+</section>
+<section class="sample">
+           <h1>You'll come back for more</h1>
+            <p>Boomerang, an ice cream outlet born out of love and passion, started in Canberra, Australia.<br> John and Serena, a warm-hearted couple, created an unforgettable experience for customers. <br>Their journey took a surprising turn when Boomerang arrived in Coimbatore, India in 1997.</p>
+            <div class="row3">
+                <div class="col11">
+                <!--p>Boomerang, an ice cream outlet born out of love and passion, started in Canberra, Australia.<br>John and Serena, a warm-hearted couple, created an unforgettable experience for customers. <br>Their journey took a surprising turn when Boomerang arrived in Coimbatore, India in 1997.</p-->
+               <pre>
+        Boomerang, an ice cream outlet born out of love and passion, started in Canberra, Australia.
+        John and Serena, a warm-hearted couple, created an unforgettable experience for customers.
+        Their journey took a surprising turn when Boomerang arrived in Coimbatore, India in 1997.</pre>
+<br>
+<br>
+                <pre>
+        Boomerang is more than just an ice cream chain – we are architects of happiness.make 
+        children jump with delight, bring pleasure to women, and infuse men with serenity.
+        Even stern grandmothers can’t help but lose their disapproving look. Within our walls, 
+        anything is possible. Lover’s whisper sweet nothings, friends share tall tales, and all
+        surrender to the guilt-free pleasure.
+                </pre>
+            </div>
+    <div class="col12">
+       <img src="25-Years-Logo-02 (1).png">
+       </div>
+</div>
+<section class="background">
+    <img src="people-03 (1).svg">
+</section>
+<section class="handing">
+    <div class="row5">
+        <div class="col21">
+            <img src="powder-base-1.webp">
+        </div>
+        <div class="col22">
+            <img src="Special-Range.webp">
+        </div>
+        <div class="col23">
+            <img src="Toppins.webp">
+        </div>
+        <div class="col24">
+            <img src="Economy-Range.webp">
+        </div>
+    </div>
+    <div class="row6">
+        <div class="col31">
+            <img src="Exculsive-Range-1.webp">
+        </div>
+        <div class="col32">
+            <img src="Exculsive-Range.webp">
+        </div>
+        <div class="col33">
+            <img src="Pasters.webp">
+        </div>
+        <div class="col34">
+            <img src="Toppins.webp">
+        </div>
+    </div>
+</section>
+<section class="video2">
+    <div class="row7">
+        <video autoplay muted="muted" width="1349" height="889" >
+            <source src="Boomerang-Site-Work.mp4">
+        </video>
+        </div>
+   </div>
+</section>
+<section class="Collaboration1">
+    <div class="row8">
+        <div class="col41">
+            <img src="Colabratoions (1).webp">
+         </div>
+         <div class="col42">
+            <h1>Collaboration</h1>
+            <h2>"Uniting Flavors"</h2>
+            <p>As we celebrate two decades of excellence, we proudly<br> announce our partnership with Coimbatore's renowned <br>restaurant chain, Annapoorna, in the grand relaunch of <br>their iconic sweet, Mysurpa. Introducing the industry's<br> first pure ghee ice cream version, we invite you to <br>indulge in this heavenly delight that merges tradition<br> and innovation.</p>
+         </div>
+    </div>
+</section>
+<section class="scoop">
+    <div class="row9">
+        <div class="col51">
+            <h1>Discover Happiness in<br>
+                Every Scoop</h1>
+                <p>Create a boomerang that focuses on the initial presentation of an ice<br> cream being served. Capture the moment when the ice cream is handed<br> over to a customer with a cheerful smile.</p>
+                <button>contact us</button>
+        </div>
+    </div>
+    <div class="row10">
+    <img src="ice-cream-scoop-bg5-1536x640 (1).png">
+</div>
+    <div class="row11">
+        <div class="col61">
+            <i class="fa-brands fa-facebook"></i>
+            <i class="fa-brands fa-twitter"></i>
+            <i class="fa-brands fa-youtube"></i><br>
+            STAY TUNED
+            <p>We love to hear from you, You’ll get an email about once a month, We’ll never share your address</p>
+        
+        </div>
+        <div class="col62">
+            <img src="logo.svg">
+            <p>admin@boomerang.in<br>
+                +91 82200 56965</p>
+        </div>
+        <div class="col63">
+            <ul>
+                <li>home</li>
+                <li>about us</li>
+                <li>menu</li>
+                <li>brancher</li>
+                <li>contact us </li>
+            </ul>
+        </div>
+    </div>
+</section>
+</body>
+</html>
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.col1 img{
+    display: inline;
+    width: 180px;
+    height: 100px;
+    padding-left:100px;
+}.row0{
+    width: 100%;
+    display:  flex;
+}
+.col0{
+    width: 33.3%;
+}
+.col1{
+    width: 33.3%;
+}
+.col2{
+    width: 33.3%;
+}
+.col0 ul li{
+    display: inline;
+    padding:10px;
+    font-weight:600;
+    font-weight:lighter;
+}
+ul{
+    margin-top: 30px;
+    padding-left: 40px;
+}
+.col2 button{
+padding:15px;
+margin-left:150px;
+margin-top: 20px;
+}
+.come-back{
+    background-image:url(various-ice-cream-flavor-ball-set-up_35641-3039.avif) ;
+    font-size: xx-large;
+    color: aqua;
+}
+.row12{
+text-align: center;
+padding-top: 100px;
+padding-bottom: 100px;
+}
+.row13{
+    width: 100%;
+    display: flex;
+}
+.col71{
+    width: 50%;
+margin-left:50px;
+font-size:20px;
+}
+.col71 p{
+    padding-left: 40px;
+}
+
+.col72{
+    width: 25%;
+ margin-left:100px;
+}
+
+.col73{
+    width: 25%;
+    background-color: rgb(248, 56, 120);
+    width: 300px;
+    height:300px;
+    padding-left:30px;
+    padding-top: 50px;
+    font-size: 20px;
+    
+}
+.col72 img{
+    width: 300px;
+    height: 300px;
+} .row14{
+    width: 100%;
+    display: flex;    
+}
+.col81{
+    width: 50%;
+    
+
+
+margin-top: 50px;
+
+
+}
+.col82{
+    width: 50%;
+
+}   
+.col82 img{
+    width: 600px;
+    height: 500px;
+    
+    
+    
+ 
+}
+.col81 p{
+    background-color:  rgb(248, 56, 120);
+    width:500px;
+    height:300px;
+    font-size:20px;
+    color: aliceblue;
+  padding: 40px;  
+}
+
+.row15{
+    width: 100%;
+    display: flex;
+}
+.col91{
+    width: 50%;
+}
+.col92{
+    width: 50%;
+}
+.hello{
+    text-align: center;
+    font-size: xx-large;
+}
+.col91 a img{
+    width:120px;
+    height:100px;
+    padding-left:300px;
+    margin-top:50px;
+}
+.col92 a img{
+    width:100px;
+    height: 100px;
+    padding-right: 300px;
+    margin-top:50px;
+}
+.row16{
+    width: 100%;
+    display: flex;
+}
+.col101{
+    width: 25%;
+}
+
+.col102{
+    width: 25%;
+}
+
+.col103{
+    width: 25%;
+}
+
+.col104{
+    width: 25%;
+}
+
+.col101 img{
+    width:337px;
+    height:400px;
+}
+
+.col102 img{
+    width:338px;
+    height:400px;
+}
+
+.col103 img{
+    width:337px;
+    height:400px;
+}
+
+.col104 img{
+    width:337px;
+    height: 400px;
+}
+.col51 p{
+    text-align: center;
+
+}
+.col51 h1{
+    text-align: center;
+    margin-top:70px;
+    color: aliceblue;
+    padding-top:50px;
+    font-size:40px;
+    }
+    .col51 button{
+       margin-left:620px;
+       background-color: palevioletred;
+       border-color: aliceblue;
+     color: aliceblue;
+     margin-top: 30px;
+     padding: 15px;
+     border: 1px solid;
+     
+    }
+    .row9{
+        background-color: rgb(250, 45, 96);
+        color: aliceblue;
+    }
+    .scoop img{
+        height:400px;
+        width: 100%;
+    
+    }
+    .scoop{
+        background-color:rgb(250, 45, 96) ;
+    }
+    .row11{
+        width: 100%;
+        display: flex;
+    }
+    .col61{
+        width: 33.33%;
+    }
+    
+    .col62{
+        width: 33.33%;
+    }
+    
+    .col63{
+        width: 33.33%;
+    }   
+    .col62 img{
+        width: 200px;
+        height:60px;
+     padding-left:120px
+    }
+    .col62 p{
+         padding-left: 150px;
+    padding-top: 20px;
+    } 
+    .col61{
+        text-align: center;
+    }
+    .col63 li{
+        list-style-type: none;
+    }
+    .row11{
+        color: aliceblue;
+    }
+.col61 p{
+    padding-left: 20px;
+    padding-top: 20px;
+}
